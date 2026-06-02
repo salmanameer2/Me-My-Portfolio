@@ -17,6 +17,8 @@ import projectImg12 from '../assets/project12.avif';
 import projectImg13 from '../assets/project13.avif';
 import projectImg14 from '../assets/project14.avif';
 import projectImg15 from '../assets/project15.avif';
+import projectImg16 from '../assets/project16.avif';
+import projectImg17 from '../assets/project17.avif';
 
 
 
@@ -226,6 +228,26 @@ export const projects = [
     icons: [FaRobot, FaReact, FaCloud],
     demo: "#",
     code: "#",
+  },
+   {
+
+    title: "React E-Commerce App",
+    description: "E-Commerce App",
+    image: projectImg16,
+    tech: ["React JS", "Tailwind CSS", "Framer Motion"],
+    icons: [FaRobot, FaReact, FaCloud],
+    demo: "https://react-e-commerce-app-ashen.vercel.app/",
+    code: "https://github.com/salmanameer2/React-E-Commerce-App",
+  },
+  {
+
+    title: "React Digital Agency App",
+    description: "A Complete Digital Agency App Using React JS and Tailwind CSS.",
+    image: projectImg17,
+    tech: ["React JS", "Tailwind CSS", "Framer Motion"],
+    icons: [FaRobot, FaReact, FaCloud],
+    demo: "https://react-digitalagency-app.netlify.app/",
+    code: "https://github.com/salmanameer2/React-Digital-Agency-App",
   },
 ];
 
