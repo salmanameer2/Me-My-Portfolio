@@ -162,7 +162,7 @@ export const projects = [
     tech: ["React", "Node.js", "JWT", "Tailwind CSS"],
     icons: [FaRobot, FaReact, FaCloud],
     demo: "#",
-    code: "https://github.com/salmanameer2/Mern-Authentication-System",
+    code: "https://github.com/salmanameer2/Mern-Authentication-System-Frontend-",
   },
   {
     title: "Expanse Management System",
